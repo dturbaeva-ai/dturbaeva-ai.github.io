@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "keylinkgroup_spb",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "ju8cx8vs23",
+    "mbrsiteDomain": "vefbtqknup",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
